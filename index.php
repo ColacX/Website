@@ -16,21 +16,30 @@
 			.wrapper{
 				width: 800px;
 				margin: 0px auto;
+				padding: 0px;
 			}
             .banner{
                 text-align: center;
+				padding: 0px;
+				margin: 0px;
             }
             .menu{
                 width: 100%;
                 text-align: center;
+				padding: 0px;
+				margin: 0px;
             }
             .sidemenu{
                 width: 33%;
                 vertical-align: top;
+				padding: 0px;
+				margin: 0px;
             }
             .centermenu{
                 width: 34%;
                 vertical-align: top;
+				padding: 0px;
+				margin: 0px;
             }
         </style>
     </head>
