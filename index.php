@@ -60,8 +60,7 @@
 						<b>Server</b><br/>
 						<span><?php echo $serverIp; ?></span><br/>
 						<span><?php echo $serverTime; ?></span><br/>
-						<span>Visitors:</span><br/>
-						<span>Readme</span><br/>
+						<span>Visits:</span><br/>
 					</td>
 
 					<td class="centermenu">
@@ -81,9 +80,11 @@
 						<span>MySQL</span><br/>
 						<span>FileZilla</span><br/>
 
-						<p><a href="http://validator.w3.org/check?uri=referer">
-							<img src="http://www.w3.org/Icons/valid-xhtml10-blue" alt="Valid XHTML 1.0 Transitional" width="88" height="31"/>
-						</a></p>
+						<p>
+							<a href="http://validator.w3.org/check?uri=referer">
+								<img src="http://www.w3.org/Icons/valid-xhtml10-blue" alt="Valid XHTML 1.0 Transitional" width="88" height="31"/>
+							</a>
+						</p>
 					</td>
 				</tr>
 
