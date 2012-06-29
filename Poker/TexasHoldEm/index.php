@@ -13,7 +13,7 @@
     <body>
 		
 		<form> 
-			<input type="button" value="New Window!" onClick="window.open('texas_holdem_game.php','texas_holdem_game.php','width=400,height=200')"> 
+			<input type="button" value="New Window!" onClick="window.open('texas_holdem_game_view.php','texas_holdem_game_view.php','width=400,height=200')"> 
 		</form>
 		
 		<?php
