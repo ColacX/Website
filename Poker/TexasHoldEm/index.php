@@ -11,9 +11,9 @@
 	 </head>
 
     <body>
-		
+        <a href ="texas_holdem_game_view.php">texas_holdem_game_view.php</a>
 		<form> 
-			<input type="button" value="New Window!" onClick="window.open('texas_holdem_game_view.php','texas_holdem_game_view.php','width=400,height=200')"> 
+			<input type="button" value="New Window!" onClick="window.open('texas_holdem_game_view.php','texas_holdem_game_view.php','width=960,height=540')"> 
 		</form>
 		
 		<?php
