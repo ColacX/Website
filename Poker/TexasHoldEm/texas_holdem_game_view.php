@@ -1161,6 +1161,7 @@
 			for(var ia=0; ia<c2e.length; ia++)
 			{
 				if(straight.length == 0 || straight)
+					;
 			}
 
 			console.log("straightCount: " + straightCount);
